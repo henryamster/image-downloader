@@ -1,6 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Image Downloader",
+  "author": "@shellworld, @henryamster",
   "version": "1.0",
   "description": "Download images from a webpage using a CSS selector",
   "icons": {
