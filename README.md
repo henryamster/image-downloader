@@ -1,0 +1,1 @@
+# Chrome Extension for downloading images with a specific css selector
